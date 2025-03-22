@@ -4,7 +4,7 @@
 This project aims to streamline and optimize various aspects of **AtliQ Hardware’s** business, including **Finance, Sales, Supply Chain, Executive Management, and Marketing**. The key objectives and achievements for each perspective are outlined below.
 
 ## 🔗 Live Dashboard
-[View Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNzdhNzIyMjEtNGFkYi00NWZhLTljNDAtOWQ4NTRhMDM2NjZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
+[View Dashboard] [https://app.powerbi.com/view?r=eyJrIjoiNzdhNzIyMjEtNGFkYi00NWZhLTljNDAtOWQ4NTRhMDM2NjZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 ---
 
